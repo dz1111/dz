@@ -1,0 +1,30 @@
+
+
+有种忧愁的感觉,我们应该用心去读,想象诗人写诗时的心情。 把握诗的感情基调,把自己变成抒情主人公,融入诗的意境。“彷徨在悠长、悠长又寂寥的雨巷”,这两个“悠长”之间的停顿应该长一些,这样更能体现雨巷幽深、绵延不绝的特点。第二节:这一节有三个“丁香”,要读出不一样的味道。例如“丁香一样的忧愁”,这个“丁香”读的时候音调要放低,读出忧愁的感觉。“丁香一样的颜色”是说姑娘很美,要读出喜欢、欣赏的感觉,可以读轻快一点。“丁香一样的芬芳”是写香味,要读出心驰神往的感觉,“丁香”两个字要拖长一点。第四节: “她静默地走近”这一句要读得轻而缓,把丁香姑娘那种轻巧缓慢的脚步声读出来,而后面“像梦一般凄婉迷茫”应读出一种淡淡的忧愁。注意语速和语调。第五节:“她静默地远了,远了”这一句中“远了”重复出现,前一个“远了”应读得稍重,后一个“远了”要轻读,读出丁香姑娘虚无飘渺的身影渐渐远去的感觉,读出诗人心中的无限怅惘。
+
+
+Students, in the modern Chinese poetry world, there is a modernist poet who has used his pen, or exactly, touched countless lonely and lonely souls. His name is Dai Wangshu. Dai Wangshu, no one will not think of the lilac like the same sad girl. In 1927, 22 year old Dai Wangshu wrote "Rain Lane" in poetry, fame, and won the "Rain Lane poet" name. Today, let us into the lane in the rain, have poured a fragrant lilac rain!
+
+ls -l scenicCard.yml iframe.css 
+
+sudo cp scenicCard.yml /opt/sdp/CityScenic/wau2/CityScenic/scenicFill/
+
+ls -l /opt/sdp/CityScenic/wau2/CityScenic/scenicFill/
+
+sudo cp iframe.css /opt/sdp/CityScenic/common/ueditor/themes/
+
+ls -l /opt/sdp/CityScenic/common/ueditor/themes/
+
+sudo tar czf CityScenic20180109.tar.gz CityScenic   //压缩
+
+
+UPDATE scenic set name = '西双版纳大益庄园景区' where  id = 'DEA3BF9B-7854-449A-9353-6E3D2537006D';
+
+select id,name,abbr from scenic where  id = 'DEA3BF9B-7854-449A-9353-6E3D2537006D';
+
+select id,name,abbr from scenic where name = '武定狮子山';
+
+select * from scenic_biz.refinfo where cs_id = '595BF26B-EC4E-45C2-A4C8-B4E17C069A29' ;
+
+select content from scenic_biz.article where ref_id = 'CE689A5E-1BCB-4319-90DC-B18FF21A0BAB' and type = 1;
+update scenic_biz.article set content = '' where ref_id = 'CE689A5E-1BCB-4319-90DC-B18FF21A0BAB' and type = 1;
